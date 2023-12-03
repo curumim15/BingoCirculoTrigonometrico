@@ -7,6 +7,7 @@
 **Status:** Done ✔️
 
 Project done in school context, for the class of Project.
+
 The project aims to encourage students to learn the principles and applications of trigonometry in a fun and interactive way. The game was designed to help students consolidate their knowledge of the trigonometric circle, angles, coordinates and trigonometric functions.
 
 ##
